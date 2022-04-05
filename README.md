@@ -2,7 +2,7 @@
 Predicting the Sales of Ampire Company in India: Imarticus Learning- HACKATHON(2021!)
 
 Objective:
-Amber is an emerging sticker company that is trying hard to replace marble  and tiles floors and walls in India.
+Ampire is an emerging sticker company that is trying hard to replace marble  and tiles floors and walls in India.
 
 Ampire is trying hard to find the value for deal size in rupees based on sticker  type and dealer in different states in India.
 
