@@ -16,7 +16,8 @@ Data Dictionary:
 8. Sticker Body Type - Design element of the sticker
 9. Value - Purchase mode by the customer for given sticker in Rupees
 10. Item Classification - Sticker type
-11. Item Cat. Code - Sticker Category code 12. Quality Code - Sticker Quality code
+11. Item Cat. Code - Sticker Category code
+12. Quality Code - Sticker Quality code
 13. Customer code - Unique Customer code
 14. Customer city - City in which customer is residing
 15. Customer type - Customer type based on sales
