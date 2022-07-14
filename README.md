@@ -1,13 +1,15 @@
 # The_First_Move
 Predicting the Sales of Ampire Company in India: Imarticus Learning- HACKATHON(2021!)
 
-Objective:
+> Objective
+
 Ampire is an emerging sticker company that is trying hard to replace marble  and tiles floors and walls in India.
 
 Ampire is trying hard to find the value for deal size in rupees based on sticker  type and dealer in different states in India.
 
 
-Data Dictionary: 
+> Data Dictionary
+
 1. item Code - Unique item number 2. State - State customer belongs to 3. Date - Date of billing
 4. Month - Month of billing
 5. item Description - Product information
