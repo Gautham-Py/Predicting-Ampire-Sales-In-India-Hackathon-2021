@@ -43,6 +43,6 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 33. Re territory - Related territory
 
 
-Evaluation Algorithm: 
-> RMSE , 
-> normalization _constant 10000
+> Evaluation Algorithm
+RMSE , 
+normalization _constant 10000
