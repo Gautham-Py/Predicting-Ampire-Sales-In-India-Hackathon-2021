@@ -44,5 +44,6 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 
 
 > Evaluation Algorithm
+
 RMSE , 
 normalization _constant 10000
