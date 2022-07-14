@@ -10,7 +10,8 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 
 > Data Dictionary
 
-1. item Code - Unique item number 2. State - State customer belongs to 3. Date - Date of billing
+1. item Code - Unique item number
+2. State - State customer belongs to 3. Date - Date of billing
 4. Month - Month of billing
 5. item Description - Product information
 6. ERP Size - Dimension of sticker sheet
