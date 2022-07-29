@@ -10,21 +10,21 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 
 > Data Dictionary
 
-1. item Code - Unique item number
-2. State - State customer belongs to
-3. Date - Date of billing
-4. Month - Month of billing
-5. item Description - Product information
-6. ERP Size - Dimension of sticker sheet
-7. Wall/Floor - suitable for wall or floor
-8. Sticker Body Type - Design element of the sticker
+1. item Code - Unique item number.
+2. State - State customer belongs to.
+3. Date - Date of billing.
+4. Month - Month of billing.
+5. item Description - Product information.
+6. ERP Size - Dimension of sticker sheet.
+7. Wall/Floor - suitable for wall or floor.
+8. Sticker Body Type - Design element of the sticker.
 9. Value - Purchase mode by the customer for given sticker in Rupees
-10. Item Classification - Sticker type
-11. Item Cat. Code - Sticker Category code
-12. Quality Code - Sticker Quality code
-13. Customer code - Unique Customer code
-14. Customer city - City in which customer is residing
-15. Customer type - Customer type based on sales
+10. Item Classification - Sticker type.
+11. Item Cat. Code - Sticker Category code.
+12. Quality Code - Sticker Quality code.
+13. Customer code - Unique Customer code.
+14. Customer city - City in which customer is residing.
+15. Customer type - Customer type based on sales.
 16. Sales Type - Classification of sale based on purchase MRP / box - Price of sticker per box
 17. MRP / sqm - Price of sticker per square metre
 18. AD1/sqm - Additional Discount 1 per square metre
