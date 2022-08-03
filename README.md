@@ -18,18 +18,18 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 6. ERP Size - Dimension of sticker sheet.
 7. Wall/Floor - suitable for wall or floor.
 8. Sticker Body Type - Design element of the sticker.
-9. Value - Purchase mode by the customer for given sticker in Rupees
+9. Value - Purchase mode by the customer for given sticker in Rupees.
 10. Item Classification - Sticker type.
 11. Item Cat. Code - Sticker Category code.
 12. Quality Code - Sticker Quality code.
 13. Customer code - Unique Customer code.
 14. Customer city - City in which customer is residing.
 15. Customer type - Customer type based on sales.
-16. Sales Type - Classification of sale based on purchase MRP / box - Price of sticker per box
-17. MRP / sqm - Price of sticker per square metre
-18. AD1/sqm - Additional Discount 1 per square metre
-19. A02/sqm Additional Discount 2 per square metre
-20. AD3/sqm Additional Discount 3 per square metre
+16. Sales Type - Classification of sale based on purchase MRP / box - Price of sticker per box.
+17. MRP / sqm - Price of sticker per square metre.
+18. AD1/sqm - Additional Discount 1 per square metre.
+19. A02/sqm Additional Discount 2 per square metre.
+20. AD3/sqm Additional Discount 3 per square metre.
 21. AD4/sqm Additional Discount 4 per square metre
 22. AD5/sqm - Additional Discount 5 per square metre
 23. AD6/sqm Additional Discount 6 per square metre
