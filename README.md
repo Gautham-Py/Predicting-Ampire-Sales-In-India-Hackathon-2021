@@ -39,10 +39,10 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 27. Buyer Rote/sqm - Rate for customer who will be using the stickers
 28. Ship to city - Shooing city
 29. FY - Financial year.
-30. Category - Materialistic Category
-31. Review zone - Zone
-32. Category 2 - Sticker type category
-33. Re territory - Related territory
+30. Category - Materialistic Category.
+31. Review zone - Zone.
+32. Category 2 - Sticker type category.
+33. Re territory - Related territory.
 
 
 > Evaluation Algorithm
