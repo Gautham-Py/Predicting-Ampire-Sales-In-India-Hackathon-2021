@@ -35,9 +35,9 @@ Ampire is trying hard to find the value for deal size in rupees based on sticker
 23. AD6/sqm Additional Discount 6 per square metre.
 24. AD7/sqm Additional Discount 7 per square metre.
 25. Total AD /sqm - Total additional discount per square metre.
-26. Billing rate/sqm - Billing rote for the customer (dealer or distributor)
-27. Buyer Rote/sqm - Rate for customer who will be using the stickers
-28. Ship to city - Shooing city
+26. Billing rate/sqm - Billing rote for the customer (dealer or distributor).
+27. Buyer Rote/sqm - Rate for customer who will be using the stickers.
+28. Ship to city - Shooing city.
 29. FY - Financial year.
 30. Category - Materialistic Category.
 31. Review zone - Zone.
