@@ -45,7 +45,7 @@ Ampire is interested in finding the value for deal size in rupees based on stick
 33. Re territory - Related territory.
 
 
-> Evaluation Algorithm
+> Evaluation Metrics
 
 RMSE , 
 normalization _constant 10000
