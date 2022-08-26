@@ -5,7 +5,7 @@ Predicting the Sales of Ampire Company in India: Imarticus Learning- HACKATHON(2
 
 Ampire is an emerging Sticker company that is trying hard to replace marble  and tile floors and walls in India.
 
-Ampire is trying hard to find the value for deal size in rupees based on sticker  type and dealer in different states in India.
+Ampire is interested in finding the value for deal size in rupees based on sticker  type and dealer in different states in India.
 
 
 > Data Dictionary
