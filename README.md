@@ -1,5 +1,5 @@
 # The_First_Move
-Predicting the Sales of Ampire Company in India: IMARTICUS lEARNING- HACKATHON(2021)
+Predicting the Sales of Ampire Company in India: IMARTICUS LEARNING- HACKATHON(2021)
 
 > Objective
 
