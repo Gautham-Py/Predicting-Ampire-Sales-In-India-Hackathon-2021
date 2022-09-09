@@ -8,7 +8,7 @@ Ampire is an emerging Sticker company that is trying hard to replace marble  and
 Ampire is interested in finding the value for deal size in rupees based on sticker  type and dealer in different states in India.
 
 
-> Data Dictionary
+> Data Fields
 
 1. item Code - Unique item number.
 2. State - State customer belongs to.
