@@ -42,7 +42,7 @@ Ampire is interested in finding the value for deal size in rupees based on stick
 30. Category - Materialistic Category.
 31. Review zone - Zone.
 32. Category 2 - Sticker type category.
-33. Re territory - Related territory.
+33. Re-territory - Related territory.
 
 
 > Evaluation Metrics
