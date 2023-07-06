@@ -1,7 +1,7 @@
 # The_First_Move
 Predicting the Sales of Ampire Company in India: IMARTICUS LEARNING- HACKATHON(2021)
 
-> Objective
+> Objective//
 
 Ampire is an emerging Sticker company that is trying hard to replace marble  and tile floors and walls in India.
 
